@@ -14,3 +14,12 @@
 5. Function
 
 6. Object (declare, access property ny name)
+
+
+## Fundamental of ES6
+
+1. Template string (declare, how use variable dynamically)
+
+2. Arrow Function 
+
+3. Spread Operator
