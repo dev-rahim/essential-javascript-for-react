@@ -1,2 +1,2 @@
 # essential-javascript-for-react
- Fundamentals of JavaScript
+ #Fundamentals of JavaScript
