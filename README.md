@@ -44,3 +44,44 @@
 2. Object destructuring
 
 3. Optional Chaining
+
+### Fetch ###
+
+1. get data using fetch
+
+2. get data using async await
+
+
+### More concepts ###
+
+1. Object.keys
+
+2. Object.values
+
+3. When we use for of and when for in.
+
+4. When we use map when for each.
+
+5. Truthy false
+    truth: ' ',5,{},[],true
+    false: '', 0, false, null, undefined
+
+### Shortcut Ternary Operator ###
+
+1. Check value is true ?
+
+2. Check value is false ?
+
+3. if else condition using ternary operator
+
+4. how to write a returnable if else with ternary shortcut
+
+5. Number to string conversion 
+    Number+ ''';
+
+6. string to Number conversion
+    +Number
+
+7. call function with condition shortcut
+
+8. toggle boolean
