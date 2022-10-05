@@ -1,5 +1,5 @@
 # essential-javascript-for-react
- #6 Core Fundamentals of JavaScript
+ ##6 Core Fundamentals of JavaScript
 
  1. How to declare variable with let & const.
 
