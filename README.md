@@ -1,6 +1,6 @@
 # essential-javascript-for-react
 
-##6 Core Fundamentals of JavaScript##
+## 6 Core Fundamentals of JavaScript ##
 
  1. How to declare variable with let & const.
 
@@ -25,6 +25,7 @@
 
 3. Spread Operator
 
+
 ### Array Methods ###
 
 1. map()
@@ -34,3 +35,12 @@
 3. filter()
 
 4. find()
+
+
+### Destructuring ###
+
+1. Array destructuring
+
+2. Object destructuring
+
+3. Optional Chaining
