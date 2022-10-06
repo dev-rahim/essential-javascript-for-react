@@ -85,3 +85,12 @@
 7. call function with condition shortcut
 
 8. toggle boolean
+
+
+## Checklist of Storage Api ##
+
+1. localStorage.setItem()
+    json.stringify()
+
+2. localStorage.getItem()
+    json.parse()
